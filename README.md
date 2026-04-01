@@ -34,7 +34,6 @@ Each prompt folder (`prompts/prompt-XX-name/`) contains:
 The commit history of this repository serves as the version log.
 
 ---
-
 ## Prompting Frameworks Used
 
 - **RACE** (Role, Action, Context, Execute) — applied to all 10 prompts
